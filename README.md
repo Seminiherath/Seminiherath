@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Seminiherath/Seminiherath/main/frontend.jpg" alt="header" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Semini Herath</h1>
-<h3 align="center">Frontend developer from Sri Lanka</h3>
+<h3 align="center">UI/UX Design Enthusiast | Undergraduate | Computing & Information Systems | Sabaragamuwa University of Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seminiherath&label=Profile%20views&color=0e75b6&style=flat" alt="seminiherath" /> </p>
 
