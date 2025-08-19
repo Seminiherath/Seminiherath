@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Seminiherath/Seminiherath/main/frontend.jpg" alt="header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Seminiherath/Seminiherath/main/fr.png" alt="header" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Semini Herath</h1>
 <h3 align="center">UI/UX Design Enthusiast | Undergraduate | Computing & Information Systems | Sabaragamuwa University of Sri Lanka</h3>
